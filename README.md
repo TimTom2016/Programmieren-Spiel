@@ -7,8 +7,8 @@ Raster-Syntax:
 -das Raster kann Egal wie Groß man will gemacht werden
 -A,B,C usw. Sind Objekte, bisher kann es Jeweils nur eines Geben und sie haben keinen Effekt
 -Immer einen Rand mit # um das Spielfeld erzeugen
-- . ist ein zwischen dem Rand.
-- Der Bot muss eines von diesen Symbolen sein <,>,^,v,* 
+-. ist ein zwischen dem Rand.
+-Der Bot muss eines von diesen Symbolen sein <,>,^,v,* 
 -Immer mit ############ beginnen und Aufhören
 Man kann bisher:
 -move()
