@@ -1,0 +1,58 @@
+12:51:20: Loaded Command look
+12:51:20: Loaded Command move
+12:51:20: Loaded Command rotate
+12:51:20: Loaded Command stop
+12:51:20: Loaded Command while
+12:51:20: Loaded all Commands
+12:51:20: Succesfully Initialized Command_Identifier
+12:51:20: Succesfully initialized Command_Helper
+12:51:20: Succesfully created Raster from Grid.txt
+12:51:20: Succesfully Initialized Raster_Reader
+12:51:20: Created Render Raster
+12:51:20: Succesfully Initialized Renderer
+12:51:30: Asked Please Enter your Script(Format: Spriptname.txt):  and got default.txt as answer 
+12:51:30: Script is ['rotate(r)', 'move()']
+12:51:30: Succesfully Initialized Code_Reader
+12:51:30: Succesfully found Bot in Raster at 813
+12:51:30: Succesfully found Bot in Raster at 813
+12:51:30: Succesfully found Bot in Raster at 813
+12:51:30: Succesfully Initialized Sprite
+12:51:30: Succesfully Created Bot
+12:51:30: Succesfully Imported all Modules
+12:51:30: Succesfully found A in Raster at 38
+12:51:30: Succesfully found A in Raster at 38
+12:51:30: Succesfully found A in Raster at 38
+12:51:30: Succesfully Initialized Sprite
+12:51:30: Succesfully found B in Raster at 14
+12:51:30: Succesfully found B in Raster at 14
+12:51:30: Succesfully found B in Raster at 14
+12:51:30: Succesfully Initialized Sprite
+12:51:30: Succesfully found C in Raster at 44
+12:51:30: Succesfully found C in Raster at 44
+12:51:30: Succesfully found C in Raster at 44
+12:51:30: Succesfully Initialized Sprite
+12:51:30: Succesfully could't find D in Raster
+12:51:30: Succesfully could't find E in Raster
+12:51:30: Succesfully could't find F in Raster
+12:51:30: Succesfully could't find G in Raster
+12:51:30: Succesfully could't find H in Raster
+12:51:30: Succesfully could't find I in Raster
+12:51:30: Succesfully could't find J in Raster
+12:51:30: Succesfully could't find K in Raster
+12:51:30: Succesfully could't find L in Raster
+12:51:30: Succesfully could't find M in Raster
+12:51:30: Succesfully could't find N in Raster
+12:51:30: Succesfully could't find O in Raster
+12:51:30: Succesfully could't find P in Raster
+12:51:30: Succesfully could't find Q in Raster
+12:51:30: Succesfully could't find R in Raster
+12:51:30: Succesfully could't find S in Raster
+12:51:30: Succesfully could't find T in Raster
+12:51:30: Succesfully could't find U in Raster
+12:51:30: Succesfully could't find V in Raster
+12:51:30: Succesfully could't find W in Raster
+12:51:30: Succesfully could't find X in Raster
+12:51:30: Succesfully could't find Y in Raster
+12:51:30: Succesfully could't find Z in Raster
+12:51:30: Succesfully started the System
+12:51:30: Closed Program

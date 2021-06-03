@@ -1,0 +1,10 @@
+12:50:56: Loaded Command look
+12:50:56: Loaded Command move
+12:50:56: Loaded Command rotate
+12:50:56: Loaded Command stop
+12:50:56: Loaded Command while
+12:50:56: Loaded all Commands
+12:50:56: Succesfully Initialized Command_Identifier
+12:50:56: Succesfully initialized Command_Helper
+12:50:56: Succesfully created Raster from Grid.txt
+12:50:56: Succesfully Initialized Raster_Reader

@@ -1,0 +1,17 @@
+12:45:17: Loaded Command look
+12:45:17: Loaded Command move
+12:45:17: Loaded Command rotate
+12:45:17: Loaded Command stop
+12:45:17: Loaded Command while
+12:45:17: Loaded all Commands
+12:45:17: Succesfully Initialized Command_Identifier
+12:45:17: Succesfully initialized Command_Helper
+12:45:17: Succesfully created Raster from Grid.txt
+12:45:17: Succesfully Initialized Raster_Reader
+12:45:17: Script is ['rotate(r)', 'move()']
+12:45:17: Succesfully Initialized Code_Reader
+12:45:17: Created Render Raster
+12:45:17: Succesfully Initialized Renderer
+12:45:17: Succesfully found Bot in Raster at 813
+12:45:17: Succesfully found Bot in Raster at 813
+12:45:17: Succesfully found Bot in Raster at 813
