@@ -25,7 +25,7 @@ Probleme:
 
 Starten
 - Das Spiel läuft auf Python 3 und man muss einfach Im Folder der Datei Main_Controller gehen und in der Console von dem Folder: python Main_Controller.py eingeben damit es Startet
-
+-Das Standard Skript ist default.txt 
 RoadMap:
 - While Loop,if und Variablen müssen noch Hinzugefügt werden 
 - Look Command hinzufügen
