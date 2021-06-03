@@ -1,3 +1,0 @@
-move(1)
-rotate(r)
-look(itemname)
