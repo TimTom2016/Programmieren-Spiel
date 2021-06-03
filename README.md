@@ -14,6 +14,7 @@ Man kann bisher:
 -move()
 -rotate(r oder l)
 -stop()
+-Man kann eigene befehle Erstellen die Verschiedene Aktionen ausführen womit man Zum Beispiel bestimmte Abläufe automatisieren kann.
 Probleme:
 -Ein bot kann auf dem gleichen Feld wie ein Buchstabe sein.
 
@@ -24,4 +25,3 @@ RoadMap:
 -Look Command hinzufügen
 -Inventar womit man Buchstaben bzw A,B,C usw aufheben und dropen kann 
 -Verschiedene Rätsel zum Lernen des Spiels und ein Tutorial
--Neue Ideen hinzufügen
