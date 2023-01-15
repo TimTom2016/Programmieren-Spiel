@@ -1,0 +1,6 @@
+# Ignore Files
+./__pycache__/ # Ignore all files in the __pycache__ directory
+*.pyc # Ignore all .pyc files
+./Programmieren-Spiel/ # Ignore all files in the Programmieren-Spiel directory
+./.idea/ # Ignore all files in the .idea directory
+./src/__pycache__/ # Ignore all files in the src/__pycache__ directory
